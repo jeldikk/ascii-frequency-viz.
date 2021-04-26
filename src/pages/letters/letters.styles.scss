@@ -1,0 +1,15 @@
+.letter-page{
+
+    .charts{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .input-controls{
+        position: sticky;
+        top: 50px;
+        height: auto;
+        background-color: white;
+        padding: 2rem
+    }
+}
