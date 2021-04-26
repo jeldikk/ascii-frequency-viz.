@@ -1,0 +1,16 @@
+.bar-chart{
+    padding: 1rem;
+
+    .input-controls{
+        position: sticky;
+        top: 70;
+    }
+    h2{
+        text-align: center;
+    }
+    svg{
+        // border: 1px solid black;
+        border: 1px solid brown;
+        border-radius: 10px;
+    }
+}
