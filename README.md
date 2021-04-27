@@ -1,3 +1,14 @@
+## ASCII Frequency visualiser
+
+This is a fun project made to acquaint knowledge of different ways to integrate best web visualisation library d3js with react framework.
+
+There are many libraries wrapped over d3js that will work. But the main essence of d3js is found closely when we start building applications using d3js from scratch.
+
+The main functionality incorporated with this applications is, Add some text to textarea control, and see different visualisation appear displaying frequency of letters contained in the entered text. This demonstrates how the data visualisation has gone to represent data.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,6 +24,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+
+
+
 
 ### `npm test`
 
